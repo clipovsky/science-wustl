@@ -1,0 +1,6 @@
+this is the head<<<<<<< HEAD
+sometimes you just add a line at the top
+cogito ergo sum
+=======
+cogito ergo changed! for branch
+>>>>>>> testing
